@@ -6,7 +6,7 @@ Code accompanying the publication:
 Cell type-specific network analysis in Diversity Outbred mice identifies genes potentially responsible for human bone mineral density GWAS associations.  
 *eLife* 13: RP100832.
 
-https://doi.org/10.7554/eLife.100832.3
+https://doi.org/10.7554/eLife.100832.2
 
 ## Contents
 
@@ -24,5 +24,6 @@ This repository contains analysis code used to perform cell type–specific netw
 ## Author
 
 Luke J. Dillard
+
 Charles R. Farber
 University of Virginia
