@@ -21,7 +21,7 @@ This repository contains analysis code used to perform cell type–specific netw
 - R
 - Required R packages listed within the script
 
-## Author
+## Authors
 
 Luke J. Dillard - University of Virginia
 
