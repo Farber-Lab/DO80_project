@@ -23,7 +23,5 @@ This repository contains analysis code used to perform cell type–specific netw
 
 ## Author
 
-Luke J. Dillard
-
-Charles R. Farber
-University of Virginia
+Luke J. Dillard - University of Virginia
+Charles R. Farber - University of Virginia
